@@ -32,3 +32,6 @@ file
 	files\WasmState.js,
 	_ readonly separator;
 
+mainconfig
+	"" = "";
+
